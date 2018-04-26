@@ -4,9 +4,6 @@
         <componentInstances>
             <componentName>Demo</componentName>
         </componentInstances>
-        <componentInstances>
-            <componentName>Demo</componentName>
-        </componentInstances>
         <name>region1</name>
         <type>Region</type>
     </flexiPageRegions>
